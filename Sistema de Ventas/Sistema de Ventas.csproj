@@ -1,0 +1,631 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6133FA0E-2B48-44F9-B5D7-C4CC23713864}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Sistema_de_Ventas</RootNamespace>
+    <AssemblyName>Sistema de Ventas</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\..\Sistema de Asistenacia IE Albert Einstein\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="CircularProgressBar, Version=2.7.0.7, Culture=neutral, PublicKeyToken=310fd07b25df79b3, processorArchitecture=MSIL">
+      <HintPath>..\packages\CircularProgressBar.2.7.0.7\lib\net40\CircularProgressBar.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Klik.Windows.Forms.EntryLib.V2.2005">
+      <HintPath>..\..\..\..\..\Sistema de Asistenacia IE Albert Einstein\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Klik.Windows.Forms.EntryLib.V2.2005.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.1016.290\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WinFormAnimation, Version=1.6.0.4, Culture=neutral, PublicKeyToken=310fd07b25df79b3, processorArchitecture=MSIL">
+      <HintPath>..\packages\WinFormAnimation.1.6.0.4\lib\net40\WinFormAnimation.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Categoria.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Categoria.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="cliente_por_nombre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cliente_por_nombre.Designer.cs">
+      <DependentUpon>cliente_por_nombre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Comprobante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Comprobante.Designer.cs">
+      <DependentUpon>Comprobante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="C_buscar_empleado_por_dni.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>C_buscar_empleado_por_dni.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="C_cliente_por_nombre.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>C_cliente_por_nombre.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="C_producto_por_categoria.cs">
+      <DependentUpon>C_producto_por_categoria.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="C_producto_por_categoria.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>C_producto_por_categoria.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Dapper\DetalleVenta.cs" />
+    <Compile Include="Dapper\Venta.cs" />
+    <Compile Include="empleado_por_Dni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="empleado_por_Dni.Designer.cs">
+      <DependentUpon>empleado_por_Dni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmClientes.Designer.cs">
+      <DependentUpon>FrmClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Herramientas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Herramientas.Designer.cs">
+      <DependentUpon>Herramientas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loader.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loader.Designer.cs">
+      <DependentUpon>Loader.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MCargos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MCargos.designer.cs">
+      <DependentUpon>MCargos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MCategorias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MCategorias.designer.cs">
+      <DependentUpon>MCategorias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MClientes.designer.cs">
+      <DependentUpon>MClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MEmpleados.designer.cs">
+      <DependentUpon>MEmpleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuPrincipal.Designer.cs">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modificar\ConfiguracionBD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modificar\ConfiguracionBD.Designer.cs">
+      <DependentUpon>ConfiguracionBD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modificar\frmBoletaVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modificar\frmBoletaVenta.Designer.cs">
+      <DependentUpon>frmBoletaVenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MProductos.designer.cs">
+      <DependentUpon>MProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mproveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mproveedores.designer.cs">
+      <DependentUpon>Mproveedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MUsuarios.designer.cs">
+      <DependentUpon>MUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimiento.Designer.cs">
+      <DependentUpon>Mantenimiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProductos.Designer.cs">
+      <DependentUpon>FrmProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Producto_por_categoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Producto_por_categoria.Designer.cs">
+      <DependentUpon>Producto_por_categoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Consultas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas.Designer.cs">
+      <DependentUpon>Consultas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes.Designer.cs">
+      <DependentUpon>Reportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Documentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Documentos.Designer.cs">
+      <DependentUpon>Documentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes_Comprobantes\DS_comprobates.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_comprobates.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes_Comprobantes\DS_Dia_actual.cs">
+      <DependentUpon>DS_Dia_actual.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes_Comprobantes\DS_Dia_actual.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_Dia_actual.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes_Comprobantes\DS_por_cliente.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_por_cliente.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes_Comprobantes\DS_reporte_por_empleadoclientes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_reporte_por_empleadoclientes.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes_Comprobantes\DS_totos_los_productos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_totos_los_productos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes_Comprobantes\FrmClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes_Comprobantes\FrmClientes.Designer.cs">
+      <DependentUpon>FrmClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes_Comprobantes\FrmEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes_Comprobantes\FrmEmpleados.Designer.cs">
+      <DependentUpon>FrmEmpleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes_Comprobantes\FRM_comprobantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes_Comprobantes\FRM_comprobantes.Designer.cs">
+      <DependentUpon>FRM_comprobantes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes_Comprobantes\FRM_comprobante_por_cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes_Comprobantes\FRM_comprobante_por_cliente.Designer.cs">
+      <DependentUpon>FRM_comprobante_por_cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes_Comprobantes\FRM_todos los productos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes_Comprobantes\FRM_todos los productos.Designer.cs">
+      <DependentUpon>FRM_todos los productos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes_Comprobantes\FRM_ventas diarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes_Comprobantes\FRM_ventas diarios.Designer.cs">
+      <DependentUpon>FRM_ventas diarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes_Comprobantes\FRM_ventas_por_empleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes_Comprobantes\FRM_ventas_por_empleado.Designer.cs">
+      <DependentUpon>FRM_ventas_por_empleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReporteVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteVentas.Designer.cs">
+      <DependentUpon>ReporteVentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utilitario.cs" />
+    <EmbeddedResource Include="cliente_por_nombre.resx">
+      <DependentUpon>cliente_por_nombre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comprobante.resx">
+      <DependentUpon>Comprobante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="empleado_por_Dni.resx">
+      <DependentUpon>empleado_por_Dni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmClientes.resx">
+      <DependentUpon>FrmClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Herramientas.resx">
+      <DependentUpon>Herramientas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loader.resx">
+      <DependentUpon>Loader.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MCargos.resx">
+      <DependentUpon>MCargos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MCategorias.resx">
+      <DependentUpon>MCategorias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MClientes.resx">
+      <DependentUpon>MClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MEmpleados.resx">
+      <DependentUpon>MEmpleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuPrincipal.resx">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modificar\ConfiguracionBD.resx">
+      <DependentUpon>ConfiguracionBD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modificar\frmBoletaVenta.resx">
+      <DependentUpon>frmBoletaVenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MProductos.resx">
+      <DependentUpon>MProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mproveedores.resx">
+      <DependentUpon>Mproveedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MUsuarios.resx">
+      <DependentUpon>MUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimiento.resx">
+      <DependentUpon>Mantenimiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProductos.resx">
+      <DependentUpon>FrmProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Producto_por_categoria.resx">
+      <DependentUpon>Producto_por_categoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Consultas.resx">
+      <DependentUpon>Consultas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes.resx">
+      <DependentUpon>Reportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Documentos.resx">
+      <DependentUpon>Documentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Comprobantes\FrmClientes.resx">
+      <DependentUpon>FrmClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Comprobantes\FrmEmpleados.resx">
+      <DependentUpon>FrmEmpleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Comprobantes\FRM_comprobantes.resx">
+      <DependentUpon>FRM_comprobantes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Comprobantes\FRM_comprobante_por_cliente.resx">
+      <DependentUpon>FRM_comprobante_por_cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Comprobantes\FRM_todos los productos.resx">
+      <DependentUpon>FRM_todos los productos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Comprobantes\FRM_ventas diarios.resx">
+      <DependentUpon>FRM_ventas diarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Comprobantes\FRM_ventas_por_empleado.resx">
+      <DependentUpon>FRM_ventas_por_empleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Comprobantes\Report_comprobantes.rdlc" />
+    <EmbeddedResource Include="Reportes_Comprobantes\Report_Diario.rdlc" />
+    <EmbeddedResource Include="Reportes_Comprobantes\Report_reporte_por_cliente.rdlc" />
+    <EmbeddedResource Include="Reportes_Comprobantes\Report_todos_los_productos.rdlc" />
+    <EmbeddedResource Include="Reportes_Comprobantes\Report_ventas_por_empleado.rdlc" />
+    <EmbeddedResource Include="ReporteVentas.resx">
+      <DependentUpon>ReporteVentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Categoria.xsc">
+      <DependentUpon>Categoria.xsd</DependentUpon>
+    </None>
+    <None Include="Categoria.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Categoria.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Categoria.xss">
+      <DependentUpon>Categoria.xsd</DependentUpon>
+    </None>
+    <None Include="C_buscar_empleado_por_dni.xsc">
+      <DependentUpon>C_buscar_empleado_por_dni.xsd</DependentUpon>
+    </None>
+    <None Include="C_buscar_empleado_por_dni.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>C_buscar_empleado_por_dni.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="C_buscar_empleado_por_dni.xss">
+      <DependentUpon>C_buscar_empleado_por_dni.xsd</DependentUpon>
+    </None>
+    <None Include="C_cliente_por_nombre.xsc">
+      <DependentUpon>C_cliente_por_nombre.xsd</DependentUpon>
+    </None>
+    <None Include="C_cliente_por_nombre.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>C_cliente_por_nombre.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="C_cliente_por_nombre.xss">
+      <DependentUpon>C_cliente_por_nombre.xsd</DependentUpon>
+    </None>
+    <None Include="C_producto_por_categoria.xsc">
+      <DependentUpon>C_producto_por_categoria.xsd</DependentUpon>
+    </None>
+    <None Include="C_producto_por_categoria.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>C_producto_por_categoria.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="C_producto_por_categoria.xss">
+      <DependentUpon>C_producto_por_categoria.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Reportes_Comprobantes\DS_comprobates.xsc">
+      <DependentUpon>DS_comprobates.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes_Comprobantes\DS_comprobates.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_comprobates.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes_Comprobantes\DS_comprobates.xss">
+      <DependentUpon>DS_comprobates.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes_Comprobantes\DS_Dia_actual.xsc">
+      <DependentUpon>DS_Dia_actual.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes_Comprobantes\DS_Dia_actual.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_Dia_actual.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes_Comprobantes\DS_Dia_actual.xss">
+      <DependentUpon>DS_Dia_actual.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes_Comprobantes\DS_por_cliente.xsc">
+      <DependentUpon>DS_por_cliente.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes_Comprobantes\DS_por_cliente.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_por_cliente.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes_Comprobantes\DS_por_cliente.xss">
+      <DependentUpon>DS_por_cliente.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes_Comprobantes\DS_reporte_por_empleadoclientes.xsc">
+      <DependentUpon>DS_reporte_por_empleadoclientes.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes_Comprobantes\DS_reporte_por_empleadoclientes.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_reporte_por_empleadoclientes.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes_Comprobantes\DS_reporte_por_empleadoclientes.xss">
+      <DependentUpon>DS_reporte_por_empleadoclientes.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes_Comprobantes\DS_totos_los_productos.xsc">
+      <DependentUpon>DS_totos_los_productos.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes_Comprobantes\DS_totos_los_productos.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_totos_los_productos.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes_Comprobantes\DS_totos_los_productos.xss">
+      <DependentUpon>DS_totos_los_productos.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaEntidad\CapaEntidad.csproj">
+      <Project>{1bb69ac2-c2ca-4434-9327-a9c85cda4590}</Project>
+      <Name>CapaEntidad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaNegocio\CapaNegocio.csproj">
+      <Project>{bda4a954-ab63-4d37-85b7-a4c2011356da}</Project>
+      <Name>CapaNegocio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Util\Util.csproj">
+      <Project>{61c0f256-ea5d-4ce9-aa02-8e23e1810581}</Project>
+      <Name>Util</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\window-remove_24x24-32.gif" />
+    <None Include="Resources\users_16x16-32.gif" />
+    <None Include="Resources\user-comment_32x32-32.gif" />
+    <None Include="Resources\Shopping cart_32x32-32.gif" />
+    <None Include="Resources\Shopping cart_24x24.gif" />
+    <None Include="Resources\consultas.png" />
+    <None Include="Resources\consulta.png" />
+    <None Include="Resources\95365.png" />
+    <None Include="Resources\tramite-documentario.png" />
+    <None Include="Resources\CORRECTO-VERDE.png" />
+    <None Include="Resources\accept_16x16-32.gif" />
+    <None Include="Resources\accept_16x16-321.gif" />
+    <None Include="Resources\accept_24x24-32.gif" />
+    <None Include="Resources\add_16x16-32.gif" />
+    <None Include="Resources\add_24x24-32.gif" />
+    <Content Include="Resources\administrative_tools_15497.ico" />
+    <None Include="Resources\anular.png" />
+    <None Include="Resources\anular__32x32.png" />
+    <None Include="Resources\anular__32x32 %282%29.png" />
+    <None Include="Resources\anular_ico.ico" />
+    <None Include="Resources\app-edit_32x32-32.gif" />
+    <None Include="Resources\atras.png" />
+    <None Include="Resources\back_24x24-32.gif" />
+    <Content Include="Resources\blokeado.ico" />
+    <Content Include="Resources\categor.ico" />
+    <None Include="Resources\categor1.ico" />
+    <None Include="Resources\chart-accept_32x32-32.gif" />
+    <None Include="Resources\circulo_verde24x24.png" />
+    <None Include="Resources\CirculoNaranja24x24.png" />
+    <None Include="Resources\circulorojo_24x24.png" />
+    <Content Include="Resources\cliente.ico" />
+    <None Include="Resources\cliente1.ico" />
+    <None Include="Resources\Delete_16x16-32.gif" />
+    <Content Include="Resources\desblokear.ico" />
+    <Content Include="Resources\empleado.ico" />
+    <None Include="Resources\empleado1.ico" />
+    <None Include="Resources\fondo.png" />
+    <None Include="Resources\guardar.png" />
+    <None Include="Resources\home_32x32-32.gif" />
+    <None Include="Resources\home_48x48-32.gif" />
+    <None Include="Resources\img.png" />
+    <None Include="Resources\imgLogin.png" />
+    <None Include="Resources\new.png" />
+    <None Include="Resources\Pie Diagram_32x32-32.gif" />
+    <None Include="Resources\printer.png" />
+    <None Include="Resources\producto_16x16.png" />
+    <None Include="Resources\remove_24x24-32.gif" />
+    <None Include="Resources\search-add_24x24-32.gif" />
+    <None Include="Resources\Security 1_24x24-32.gif" />
+    <Content Include="Resources\select_ok_accept_15254.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

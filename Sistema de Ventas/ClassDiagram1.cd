@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Sistema_de_Ventas.Comprobante" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>+wCRGAGAQDCIgBgIYFKIAKALAAx5BgEEgXAAk4EQACA=</HashCode>
+      <FileName>Comprobante.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_de_Ventas.Consultas" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAIAAgAKAAAAAAAACAAAAiAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Consultas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_de_Ventas.CrystalReport2" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAQBJAAAQAAAAAAAIAAAAAAAAAAAADAABAAAABAA=</HashCode>
+      <FileName>CrystalReport2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_de_Ventas.CachedCrystalReport2" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CrystalReport2.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Sistema_de_Ventas.Documentos" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>+wCROAEgQLAIgBgIYEKMAaALAA45BwEGgTAAk4ETACA=</HashCode>
+      <FileName>Documentos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_de_Ventas.FrmClientes" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAQIBAAAACAAAACQAAAAAAgAAAAAAAAIAA=</HashCode>
+      <FileName>FrmClientes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_de_Ventas.FrmProductos" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIACACAAIBAAQACAAAASAAAAAAACAAAAAAAAkAA=</HashCode>
+      <FileName>FrmProductos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_de_Ventas.FrmReportes" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAACAAAAEAAACAAAACAACAAAAAIAAAAAAAAgA=</HashCode>
+      <FileName>FrmReportes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_de_Ventas.Loader" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAAAACAABBAEAACAAAACAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Loader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_de_Ventas.Login" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAABBEAAICAAAACQIAQCAACAAAAAAFIAAA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_de_Ventas.Mantenimiento" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACFAAAAIKAAAAAAAACAAAACAUAIAEAAAAAAABBAQlI=</HashCode>
+      <FileName>Mantenimiento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_de_Ventas.MCargos" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQCQyBABCSAACFAAEBCAAAMCICCAAEAAACAIAAAAAAk=</HashCode>
+      <FileName>MCargos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_de_Ventas.MCategorias" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACCAAAAAACACIBoAAACAAQBCIAA4AAAAMCAACAAAAAI=</HashCode>
+      <FileName>MCategorias.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_de_Ventas.MClientes" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IICAQAABECAQAFAAAAiAABEDgCAAAEAgECAAAAACAgA=</HashCode>
+      <FileName>MClientes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_de_Ventas.MEmpleados" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MwCASABAWCAKAFAhCACEAZkCAAAIIFAgFDASAQBAAAQ=</HashCode>
+      <FileName>MEmpleados.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_de_Ventas.MProductos" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAKASABACCAACBgAQACAAAkKaAIgAECggDASoBBAgAQ=</HashCode>
+      <FileName>MProductos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_de_Ventas.MUsuarios" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACASSIQASAASFAAAICEAAESQAAAAEAAACJGAAAgAAA=</HashCode>
+      <FileName>MUsuarios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_de_Ventas.neptunoDataSet" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAAJABAABQgAAAAgCQBgAAAAAAAEgBBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_de_Ventas.Principal" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AFSJIgBIAKSAABCAAACBhIACAgSAIQABAAAAgQBIQAY=</HashCode>
+      <FileName>Principal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_de_Ventas.Program" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_de_Ventas.PruebaPrincipal" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AESAAmBIAKaAABChAQCBhIACAgCAIQABAAAAgSBIQAY=</HashCode>
+      <FileName>PruebaPrincipal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_de_Ventas.Reportes">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAIAAAAIAAAAAAAACAAABCAMA4AAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Reportes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_de_Ventas.ReporteVentas" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>OAIAEAAYECAKCBQgAACgCAACCAgEgIAIEEAAAgAIIEA=</HashCode>
+      <FileName>ReporteVentas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_de_Ventas.neptunoDataSetTableAdapters.ReporteVentasTableAdapter">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_de_Ventas.neptunoDataSetTableAdapters.TableAdapterManager">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Sistema_de_Ventas.neptunoDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+        <TypeIdentifier />
+      </Enum>
+      <Class Name="Sistema_de_Ventas.neptunoDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+        <TypeIdentifier />
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAAAAMAAgAAACgAAAAAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_de_Ventas.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_de_Ventas.Properties.Settings" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

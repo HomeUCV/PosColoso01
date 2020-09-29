@@ -1,0 +1,284 @@
+D:\6to Ciclo\Tesis\Sistema de Ventas\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\6to Ciclo\Tesis\Sistema de Ventas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\6to Ciclo\Tesis\Sistema de Ventas\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\6to Ciclo\Tesis\Sistema de Ventas\CapaNegocio\bin\Debug\CapaConexion.dll
+D:\6to Ciclo\Tesis\Sistema de Ventas\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\6to Ciclo\Tesis\Sistema de Ventas\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\6to Ciclo\Tesis\Sistema de Ventas\CapaNegocio\bin\Debug\CapaConexion.pdb
+D:\6to Ciclo\Tesis\Sistema de Ventas\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\6to Ciclo\Tesis\Sistema de Ventas\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+D:\6to Ciclo\Tesis\Sistema de Ventas\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\6to Ciclo\Tesis\Sistema de Ventas\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\CapaConexion.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\EnvDTE.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\stdole.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.MSXML.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\CapaConexion.pdb
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\POLANCO\Desktop\Sistema de Ventas\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\CapaConexion.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\EnvDTE.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\stdole.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.MSXML.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\CapaConexion.pdb
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\POLANCO\Desktop\imagenes de nuevos\Sistema de Ventas\CapaNegocio\obj\Debug\CapaNegocio.pdb
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\CapaNegocio.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\CapaDatos.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\CapaEntidad.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\CapaConexion.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\CapaDatos.pdb
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\CapaEntidad.pdb
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\CapaConexion.pdb
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\obj\Debug\CapaNegocio.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\obj\Debug\CapaNegocio.pdb
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\EnvDTE.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\stdole.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\EnvDTE80.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.Build.Tasks.Core.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\VSLangProj.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\VSLangProj80.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.MSXML.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.Build.Utilities.Core.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.Build.Framework.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\VSLangProj2.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\es\Microsoft.VisualStudio.GraphModel.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+E:\DOCUMENTOS 2020\sistema en c# sql server\sistema con consultas avanzadas\Sistema de Ventas\CapaNegocio\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+F:\PROJECTS DE VISUAL STUDIO\C#(ESCRITORIO)\SistemaVentasGratis\Sistema de Ventas\CapaNegocio\bin\Debug\CapaNegocio.dll
+F:\PROJECTS DE VISUAL STUDIO\C#(ESCRITORIO)\SistemaVentasGratis\Sistema de Ventas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+F:\PROJECTS DE VISUAL STUDIO\C#(ESCRITORIO)\SistemaVentasGratis\Sistema de Ventas\CapaNegocio\bin\Debug\CapaDatos.dll
+F:\PROJECTS DE VISUAL STUDIO\C#(ESCRITORIO)\SistemaVentasGratis\Sistema de Ventas\CapaNegocio\bin\Debug\CapaEntidad.dll
+F:\PROJECTS DE VISUAL STUDIO\C#(ESCRITORIO)\SistemaVentasGratis\Sistema de Ventas\CapaNegocio\bin\Debug\CapaConexion.dll
+F:\PROJECTS DE VISUAL STUDIO\C#(ESCRITORIO)\SistemaVentasGratis\Sistema de Ventas\CapaNegocio\bin\Debug\CapaDatos.pdb
+F:\PROJECTS DE VISUAL STUDIO\C#(ESCRITORIO)\SistemaVentasGratis\Sistema de Ventas\CapaNegocio\bin\Debug\CapaEntidad.pdb
+F:\PROJECTS DE VISUAL STUDIO\C#(ESCRITORIO)\SistemaVentasGratis\Sistema de Ventas\CapaNegocio\bin\Debug\CapaConexion.pdb
+F:\PROJECTS DE VISUAL STUDIO\C#(ESCRITORIO)\SistemaVentasGratis\Sistema de Ventas\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+F:\PROJECTS DE VISUAL STUDIO\C#(ESCRITORIO)\SistemaVentasGratis\Sistema de Ventas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+F:\PROJECTS DE VISUAL STUDIO\C#(ESCRITORIO)\SistemaVentasGratis\Sistema de Ventas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+F:\PROJECTS DE VISUAL STUDIO\C#(ESCRITORIO)\SistemaVentasGratis\Sistema de Ventas\CapaNegocio\obj\Debug\CapaNegocio.dll
+F:\PROJECTS DE VISUAL STUDIO\C#(ESCRITORIO)\SistemaVentasGratis\Sistema de Ventas\CapaNegocio\obj\Debug\CapaNegocio.pdb
+F:\PROJECTS DE VISUAL STUDIO\C#(ESCRITORIO)\SistemaVentasGratis_Profesional\Sistema de Ventas\CapaNegocio\bin\Debug\CapaNegocio.dll
+F:\PROJECTS DE VISUAL STUDIO\C#(ESCRITORIO)\SistemaVentasGratis_Profesional\Sistema de Ventas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+F:\PROJECTS DE VISUAL STUDIO\C#(ESCRITORIO)\SistemaVentasGratis_Profesional\Sistema de Ventas\CapaNegocio\bin\Debug\CapaDatos.dll
+F:\PROJECTS DE VISUAL STUDIO\C#(ESCRITORIO)\SistemaVentasGratis_Profesional\Sistema de Ventas\CapaNegocio\bin\Debug\CapaEntidad.dll
+F:\PROJECTS DE VISUAL STUDIO\C#(ESCRITORIO)\SistemaVentasGratis_Profesional\Sistema de Ventas\CapaNegocio\bin\Debug\CapaConexion.dll
+F:\PROJECTS DE VISUAL STUDIO\C#(ESCRITORIO)\SistemaVentasGratis_Profesional\Sistema de Ventas\CapaNegocio\bin\Debug\CapaDatos.pdb
+F:\PROJECTS DE VISUAL STUDIO\C#(ESCRITORIO)\SistemaVentasGratis_Profesional\Sistema de Ventas\CapaNegocio\bin\Debug\CapaEntidad.pdb
+F:\PROJECTS DE VISUAL STUDIO\C#(ESCRITORIO)\SistemaVentasGratis_Profesional\Sistema de Ventas\CapaNegocio\bin\Debug\CapaConexion.pdb
+F:\PROJECTS DE VISUAL STUDIO\C#(ESCRITORIO)\SistemaVentasGratis_Profesional\Sistema de Ventas\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+F:\PROJECTS DE VISUAL STUDIO\C#(ESCRITORIO)\SistemaVentasGratis_Profesional\Sistema de Ventas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+F:\PROJECTS DE VISUAL STUDIO\C#(ESCRITORIO)\SistemaVentasGratis_Profesional\Sistema de Ventas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+F:\PROJECTS DE VISUAL STUDIO\C#(ESCRITORIO)\SistemaVentasGratis_Profesional\Sistema de Ventas\CapaNegocio\obj\Debug\CapaNegocio.dll
+F:\PROJECTS DE VISUAL STUDIO\C#(ESCRITORIO)\SistemaVentasGratis_Profesional\Sistema de Ventas\CapaNegocio\obj\Debug\CapaNegocio.pdb

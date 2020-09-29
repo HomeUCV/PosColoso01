@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CapaDatos.CargoDAO" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgCAgSCAAAAAQAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>CargoDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaDatos.CategoriasDAO" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CategoriasDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaDatos.ClientesDAO" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAQAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClientesDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaDatos.DetalledeVentaDAO" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAEAQAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>DetalledeVentaDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaDatos.EmpleadoDAO" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIgAAAAAAEQAAAAAAAAAAAACAAABAAAAAAAAAAA=</HashCode>
+      <FileName>EmpleadoDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaDatos.ProductosDAO" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgQAAAAAAQAAAAAAAAABAAAAIAAgAAAAAAAgAE=</HashCode>
+      <FileName>ProductosDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaDatos.ProveedorDAO" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAQAAAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProveedorDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaDatos.ReportesDAO" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAQAAAAAIAAAAAAAAAAEAAAAAAAAAEA=</HashCode>
+      <FileName>ReportesDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaDatos.UsiariosDAO" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAEAQBIAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>UsiariosDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaDatos.VentasDAO" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAQAAAAAAIAAAAAAAAAAAAAAEIAAAAA=</HashCode>
+      <FileName>VentasDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
