@@ -1,0 +1,31 @@
+Comandos para Git:
+git init --->inicializar un repositorio nuevo
+git log ---->
+git add * o . ---> añadir archivos faltantes al git.
+git status ---> ver el estado de los archivos que conforman la carpeta del proyecto.
+git remote add origin "Link del Repositorio"
+git remote -v --->Muestra lista repositorios
+git commit -m "Mensaje asociado al Commit, describiendo lo que se ha echo en el codigo" ---->Hacer commit al proyecto
+git branch -->muestra una lista de los branches que existen en nuestro repositorio
+* Configuracion de Git antes de hacer Commit *
+git config --global user.email "vcruz.segovia@gmail.com"
+git config --global user.name "Vlady"
+
+git push origin master ---> push es para mandar los cambios al repositorio remoto. 
+
+ *Para configurar globalmente (para todos los repositorios )tu email y name añades --global *
+ git config --global user.email"tu@email.com"
+ git config --global user.name"tunombre"
+
+ * Para hacerlo solo para un repositorio lo puedes hacer sin ese parámetro dentro del repositorio *
+ git config user.email"tu@email.com"
+ git config user.name"tunombre"
+ 
+ *Crear una nueva Rama y utilizarla
+ git checkout -b NombredeLaRama
+ git branch -d nombredeRama ---->eliminar una rama por nombe.
+
+git config --list -->listar todos las opciones de configuración.
+
+
+
